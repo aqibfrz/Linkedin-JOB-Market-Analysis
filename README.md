@@ -59,10 +59,10 @@ The Power BI report is structured into several interactive pages, each focusing 
 There are two ways to interact with this analysis:
 
 1.  **Online (Recommended):** View the live, published report on the Power BI Service:
-    * [**LINK TO POWER BI WEB REPORT** - *Replace this with your Power BI Publish to Web link*]
+    * [https://app.powerbi.com/links/YwM4fJGj1r?ctid=dcf438c2-e741-4ece-822c-7f42d4d45380&pbi_source=linkShare]
 2.  **Locally:** Download and explore the source file:
     * Clone this repository.
-    * Open the file: `[Your Report File Name.pbix]` using **Power BI Desktop**.
+    * Open the file: `[Project.pbix]` using **Power BI Desktop**.
     * *(Note: The report may require a connection to the original data source for full data refresh, but all visuals are baked into the provided PBIX file.)*
 
 ## Future Enhancements
